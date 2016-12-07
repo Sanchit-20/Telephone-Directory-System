@@ -1,6 +1,7 @@
 # Telephone-Directory-System
-Telephone directory is an application that allows user to maintain records of others phone  numbers.
-This application is created in C language and graphics.h library is also used in making this application.
+Telephone directory is an application that allows user to maintain records of others phone  numbers. This application is created in C language and graphics.h library is also used in making this project. Turbo C++ is used in this project.
+
+This is my First Semester Project.
 
 Basic Features:
 
